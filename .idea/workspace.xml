@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc7fd16-cb06-49a9-8fef-dcfeb244abb8" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
@@ -103,6 +104,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-jpa-thymeleaf-demo1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/offcn/SpringbootJpaThymeleafDemo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/offcn/SpringbootJpaThymeleafDemo1Application.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,11 +158,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582361281200</updated>
+<<<<<<< Updated upstream
       <workItem from="1582361285556" duration="351000" />
     </task>
+=======
+      <workItem from="1582361285556" duration="3362000" />
+    </task>
+    <task id="LOCAL-00001" summary="在主程序入口添加注释">
+      <created>1582361700009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582361700009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加支付模块：&#10;新增功能：支付、修改、删除">
+      <created>1582382873180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582382873180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="在主程序入口添加注释" />
+    <MESSAGE value="添加支付模块：&#10;新增功能：支付、修改、删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加支付模块：&#10;新增功能：支付、修改、删除" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1582382585869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582382585869" />
+    <state x="178" y="0" key="CommitChangelistDialog2" timestamp="1582382865003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="178" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582382865002" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1582382209248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582382209248" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1582382992740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582382992740" />
+  </component>
+>>>>>>> Stashed changes
 </project>
